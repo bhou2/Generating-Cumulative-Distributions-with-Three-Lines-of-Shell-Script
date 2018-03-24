@@ -1,6 +1,6 @@
 # Generating Cumulative Distributions with Three Lines of Shell Codes
 
-This is a shell script to generate Cumulative Distributions with three lines of codes. The Cumulative Distribution function (CDF) of a random variable X refers to the probability that X will take a value less than or equal to x. For example, CDF(10) = 80% means that the probiality that X is no large than 10 is 80%. 
+This is a shell script to generate Cumulative Distributions with three lines of codes. The Cumulative Distribution Function (CDF) of a random variable X refers to the probability that X will take a value less than or equal to x. For example, CDF(10) = 80% means that the probiality that X is no large than 10 is 80%. 
 
 It is super to use.
 
