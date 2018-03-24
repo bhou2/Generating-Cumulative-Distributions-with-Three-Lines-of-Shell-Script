@@ -8,4 +8,4 @@ $ ./cdf.sh input_file output_file
 
 Each line in the output_file is in the formate as (X, P), meaning that in the distribution, the percentage that the value is not larger than X is P. 
 
-The file "bitcoin_price" refres to the prices of bitoin varying the time day by day; the file "bitcoin_price_cdf" is the CDF of bition prices.
+The file "bitcoin_price" refres to the prices of bitoin varying the time day by day; the file "bitcoin_price_cdf" is the generated CDF of bition prices.
